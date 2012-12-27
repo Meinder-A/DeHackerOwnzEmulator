@@ -1,0 +1,19 @@
+﻿HTTP/1.1 200 OK
+Server: Apache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+P3P: CP="CAO PSA OUR"
+Vary: Accept-Encoding,User-Agent
+Content-Length: 2488
+Content-Type: text/html; charset=UTF-8
+Content-Language: es
+X-XTM-Node: pool-02-www-013174
+Connection: Keep-Alive
+Keep-Alive: timeout=30000, max=99999
+
+<html>
+<title>DO TEST</title>
+<body>
+<embed width="1280" height="720" src="http://gb1.darkorbit.bigpoint.com/spacemap/main.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" play="true" loop="true" scale="noscale" wmode="0" devicefont="false" bgcolor="#000000" name="main" menu="true" allowfullscreen="true" allowscriptaccess="always" flashvars="lang=en&userID=88888888&sessionID=476576763278gdfhb&basePath=spacemap&pid=46&resolutionID=3&boardLink=somethingshit&helpLink=http%3A%2F%2Fhelp.bigpoint.com%2F%3Fproject%3Ddarkorbit%26lang%3Den_GB%26aid%3D251%26aip%3Ddark+orbit&loadingClaim=LOADING&chatHost=globalchat-eu-pub-01.bigpoint.net&cdn=http://darkorbit.l3.cdn.bigpoint.net/&useHash=1&host=gb1.darkorbit.bigpoint.com&allowedScriptAccess=always&allowNetworking=true&gameXmlHash=52023c0a3f30f52e90ab4081e4438800&resourcesXmlHash=89bd46f0cfdd955901ad4346b910ba00&autoStartEnabled=0&mapID=1&supportedResolutions=0,1,2,3,4&logConfig=0,300,4,5&instantLogEnabled=1&doubleClickAttackEnabled=1&allowChat=1"  salign="" type="application/x-shockwave-flash">
+</body>
+</html>
